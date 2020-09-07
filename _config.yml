@@ -7,16 +7,18 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
+title:            Joshua Oba              # Site title
+name:             Joshua Oba              # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/friday-theme"
+baseurl: "/"
+
+remote_theme: friday-theme
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages", "_portfolio", "assets"]
 
 # Wire in the SASS files in the theme directory.
 sass:
