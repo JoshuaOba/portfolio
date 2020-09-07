@@ -2,10 +2,12 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Joshua Oba's Portfolio Website
 ---
 
 ## Welcome to Joshua Oba's Portfolio Site!
+
+I am a fourth year physics undergraduate at the University of Lethbridge. 
 
 Here you can find my CV and portfolio for past projects, as well as my contact information.
 
